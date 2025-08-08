@@ -1,3 +1,5 @@
+<p align="center">r.i.p. | good idea, poor implementation</p>
+
 <img src="assets/images/lesa7xg.png">
 
 
